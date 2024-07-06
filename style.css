@@ -26,8 +26,6 @@ button {
     cursor: pointer;
 }
 
-/* Raise button */
-
 .button1 {
     display: block;
     color: whitesmoke;
@@ -43,12 +41,6 @@ button {
     box-shadow: 0 15px 10px -5px aqua;
     transform: translateY(-0.25em);
 }
-
-/* Creative button */
-
-/* .creative{} */
-
-
 
 .button2 {
     border: none;
@@ -138,11 +130,6 @@ button {
     width: 100%;
 }
 
-
-
-
-/* .button4 */
-
 .button4 {
     position: relative;
     text-decoration: none;
@@ -181,18 +168,6 @@ button {
     transform: scaleX(1);
     transition: .5s;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 .button5 {
     position: relative;
